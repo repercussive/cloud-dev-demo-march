@@ -23,5 +23,5 @@ jobs:
 
       - name: Deploy app
         run: | 
-          echo: "Deploying the app..."
+          echo "Deploying the app..."
           ls
